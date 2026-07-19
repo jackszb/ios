@@ -34,7 +34,7 @@ RULES = [
         "geosite-!cn.srs",
     ),
     (
-        "https://raw.githubusercontent.com/jackszb/ads/main/adblock_reject.json",
+        "https://raw.githubusercontent.com/jackszb/iphone-simple-rules/main/rules/reject.json",
         "reject.json",
         "adblock.srs",
     ),
