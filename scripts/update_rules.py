@@ -24,7 +24,7 @@ RULES = [
         "geoip-cn.srs",
     ),
     (
-        "https://raw.githubusercontent.com/jackszb/iphone-simple-rules/main/rules/direct.json",
+        "https://raw.githubusercontent.com/jackszb/ios/main/my-direct.json",
         "direct.json",
         "geosite-cn.srs",
     ),
