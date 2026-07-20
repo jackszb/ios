@@ -29,7 +29,7 @@ RULES = [
         "geosite-cn.srs",
     ),
     (
-        "https://raw.githubusercontent.com/jackszb/iphone-simple-rules/main/rules/proxy.json",
+        "https://raw.githubusercontent.com/jackszb/ios/main/my-proxy.json",
         "proxy.json",
         "geosite-!cn.srs",
     ),
