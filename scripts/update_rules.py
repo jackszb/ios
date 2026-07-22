@@ -24,12 +24,12 @@ RULES = [
         "geoip-cn.srs",
     ),
     (
-        "https://raw.githubusercontent.com/jackszb/ios/main/my-direct.json",
+        "https://raw.githubusercontent.com/jackszb/rules-build/main/rules-src/my-direct.json",
         "direct.json",
         "geosite-cn.srs",
     ),
     (
-        "https://raw.githubusercontent.com/jackszb/ios/main/my-proxy.json",
+        "https://raw.githubusercontent.com/jackszb/rules-build/main/rules-src/my-proxy.json",
         "proxy.json",
         "geosite-!cn.srs",
     ),
