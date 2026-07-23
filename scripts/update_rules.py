@@ -24,12 +24,12 @@ RULES = [
         "geoip-cn.srs",
     ),
     (
-        "https://raw.githubusercontent.com/jackszb/rules-build/main/rules-src/my-direct.json",
+        "https://raw.githubusercontent.com/jackszb/iphone-simple-rules/main/rules/direct.json",
         "direct.json",
         "geosite-cn.srs",
     ),
     (
-        "https://raw.githubusercontent.com/jackszb/rules-build/main/rules-src/my-proxy.json",
+        "https://raw.githubusercontent.com/jackszb/iphone-simple-rules/main/rules/proxy.json",
         "proxy.json",
         "geosite-!cn.srs",
     ),
